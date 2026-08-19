@@ -1,7 +1,7 @@
 # grubaero1080p
 
 
-credeit to @ for making original theme
+credeit to https://github.com/Jacksaur for maintaining grub themes
 
 
 heres link to original:https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main
