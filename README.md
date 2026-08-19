@@ -14,3 +14,12 @@ idk markdown so it wont be perfect
 
 
 ill do the turoaial laterf
+
+why should i pick this version?
+
+how and where to import it?
+
+how to configure it even more?
+
+
+
