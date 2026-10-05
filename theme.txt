@@ -1,5 +1,5 @@
 # GRUB2 gfxmenu Aero theme.
-# Designed for 1024x768 resolution and modified for 1080p screen.
+# Designed for 1024x768 resolution and modified for 1080x1920 screen.
 # Created by Legendary Bibo and modified by Ant3k1081
 
 # Global Property
@@ -17,9 +17,9 @@ terminal-font: "Fixed Regular 13"
 # Show the boot menu
 + boot_menu {
 		left = 396
-		width = 700
+		width = 1128
 		top = 161
-		height = 760
+		height = 750
 		item_font = "Sans Regular 12"
 		selected_item_font = "Sans Regular 14"
 		item_color = "#000000"
@@ -42,7 +42,7 @@ terminal-font: "Fixed Regular 13"
 + progress_bar {
 		id = "__timeout__"
 		left = 395
-		width = 602
+		width = 1129
 		top = 923
 		height = 23
 		show_text = false
